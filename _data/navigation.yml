@@ -3,5 +3,5 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Articles"
-    url: /_posts/
+  - title: "Product"
+    url: /product/
