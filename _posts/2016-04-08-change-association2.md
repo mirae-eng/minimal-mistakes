@@ -11,6 +11,7 @@ defaults:
       comments: true
       share: true
       related: true
+      title: 신주 발행 공고문
 ---
 
 ## 2. 신주 발행 공고 (4월 8일 기준)
