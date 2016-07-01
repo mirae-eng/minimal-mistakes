@@ -11,6 +11,7 @@ defaults:
       comments: true
       share: true
       related: true
+      title: 정관 개정 공고문
 ---
 
 ## 1. 정관 개정 공고 (3월 27일 기준)
