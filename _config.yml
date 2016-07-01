@@ -63,10 +63,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Kim, Tae-joon"
-  avatar           : "bio-photo.jpg"
-  bio              : "blah blah"
-  location         : "Daejon, Korea Rep."
+  name             : "미래엔지니어링"
+  avatar           : "logo.png"
+  bio              : "고온/고압 계측기 및 전자기 장치 설계, 개발 및 제작"
+  location         : "111, Daedeok-daero 989beon-gil, Yuseong-gu, Daejeon, Korea Rep."
   email            : "extjkim@gmail.com"
   uri              :
   bitbucket        :
@@ -91,6 +91,8 @@ author:
   weibo            :
   xing             :
   youtube          :
+  tel              : +82-42-864-2290
+  fax              : +82-42-864-2291
 
 
 # Reading Files
