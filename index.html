@@ -1,6 +1,5 @@
 ---
-  layout: archive-single
-    type=grid
+  layout: archive
   author: false
   excerpt: "고온·고압 계측 및 전자장치 설계·개발 제작 전문 **미래엔지니어링**"
   header:
@@ -20,9 +19,3 @@
 {% endfor %}
 
 {% include paginator.html %}
-
-<div class="grid__wrapper">
-  {% for post in site.portfolio %}
-    {% include portfolio-archive.html type="grid" %}
-  {% endfor %}
-</div>
