@@ -1,6 +1,16 @@
 ---
-layout: post
-title: 정관 개정 공고문
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 ---
 
 ## 1. 정관 개정 공고 (3월 27일 기준)
