@@ -1,6 +1,16 @@
 ---
-layout: post
-title: 신주 발행 공고문
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 ---
 
 ## 2. 신주 발행 공고 (4월 8일 기준)
