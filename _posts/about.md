@@ -1,7 +1,17 @@
 ---
-layout: page
-title: About
-permalink: /about/
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      permalink: /about/
 ---
 
 ![CEO]({{ site.baseurl }}/images/about.jpg)
