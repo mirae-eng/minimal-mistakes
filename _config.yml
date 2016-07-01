@@ -201,6 +201,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+og_image: "logo.png"
 
 # HTML Compression
 # - http://jch.penibelst.de/
