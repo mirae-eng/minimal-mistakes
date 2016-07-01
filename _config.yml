@@ -221,5 +221,5 @@ defaults:
       comments: true
       share: true
       related: true
-      header:
-        image: teaser.jpg
+  header:
+    image: teaser.jpg
