@@ -11,7 +11,7 @@ title                    : "Mirae Engineering"
 title_separator          : "-"
 name                     : "미래엔지니어링"
 description              : "Welcome to Mirae Eng."
-url                      : "https://mirae-eng.github.io/"
+url                      : "https://mirae-eng.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : "teaser.jpg"
