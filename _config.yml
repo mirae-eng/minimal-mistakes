@@ -9,8 +9,8 @@
 locale                   : "ko-KR"
 title                    : "Mirae Engineering"
 title_separator          : "-"
-name                     : "미래엔지니어링"
-description              : "Welcome to Mirae Eng."
+name                     : "(주)미래엔지니어링"
+description              : "Welcome to Mirae Engineering Co., Ltd."
 url                      : "https://mirae-eng.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -63,9 +63,9 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "미래엔지니어링"
+  name             : "(주)미래엔지니어링"
   avatar           : "logo.png"
-  bio              : "고온/고압 계측기 및   전자장치 설계, 개발 및 제작"
+  bio              : "고온 계측센센서 및   전자기 장치 개발 및 제작"
   location         : "대전 유성구 대덕대로989번길 111"
   email            : "extjkim@gmail.com"
   uri              :
